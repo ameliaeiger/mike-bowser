@@ -40,6 +40,7 @@ function Header(props) {
           <Link
             color="inherit"
             noWrap
+            style={{textDecoration:"none"}}
             key={section.title}
             variant="body2"
             href={section.url}

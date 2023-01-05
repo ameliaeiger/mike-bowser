@@ -17,10 +17,11 @@ import post2 from './blog-post.2.md';
 import post3 from './blog-post.3.md';
 
 const sections = [
-  { title: 'About', url: '#' },
-  { title: 'Portfolio', url: '#' },
-  { title: 'LinkedIn', url: '#' },
-  { title: 'Contact', url: '#' },
+          { title: 'HOME', url: '/' },
+          { title: 'ABOUT', url: '/about' },
+          { title: 'PORTFOLIO', url: '#' },
+          { title: 'LINKEDIN', url: '#' },
+          { title: 'CONTACT', url: '#' },
 ];
 
 const mainFeaturedPost = {
